@@ -4,19 +4,19 @@
   display: none;
 }
 
-#wall #tag-2 {
+#tag-2 {
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
   display: none;
 }
 
-#di #wall #tag-3.slick {
+#tag-3 {
   background: url(../images/tag-3.png) no-repeat;
   z-index: 5;
   display: none;
 }
 
-#wall #tag-4 {
+#tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
